@@ -1,7 +1,9 @@
 # Hey there, thanks for stopping by!
 
 
-💻 I'm currently working at [Respond.io](https://respond.io), where I focus on designing, implementing, and maintaining scalable cloud infrastructures that support powerful communication platforms.
+💻 As a Senior Cloud Engineer at Respond.io, I engineer scalable systems that keep global conversations running smoothly. Each layer I refine boosts reliability, security, and speed—ensuring seamless connections anywhere.
+
+Beyond building these digital foundations, I’m exploring IoT and driving cloud innovation to shape a more connected future.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://lk.linkedin.com/in/hasithaprabhath)](http://lk.linkedin.com/in/hasithaprabhath)
@@ -28,4 +30,4 @@ I'm always working on something new and exciting. If you want to know what I'm u
 [![](https://visitcount.itsvg.in/api?id=hasithaishere&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 
-<img src="./assets/hasitha-H.png" width="5%">
+<img src="./assets/hasitha-H.png" width="20%">
