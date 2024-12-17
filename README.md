@@ -1,6 +1,5 @@
 # Hey there, thanks for stopping by!
 
-## Senior Cloud Engineer
 
 💻 I'm currently working at [Respond.io](https://respond.io), where I focus on designing, implementing, and maintaining scalable cloud infrastructures that support powerful communication platforms.
 
@@ -8,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://lk.linkedin.com/in/hasithaprabhath)](http://lk.linkedin.com/in/hasithaprabhath)
 [![Twitter Follow](https://img.shields.io/badge/follow-hasithaishere-1DA1F2?logo=twitter&style=social)](https://twitter.com/RexosP)
 [![Download CV Profile Eglish](https://img.shields.io/badge/Download-CV%20Profile-blue)](https://hasitha.cloud/cv/CV-GDHP_Gamage.pdf)
-[![Website Badge](https://img.shields.io/badge/website-Access%20website-green)](https://hasitha.cloud/)
+[![Website Badge](https://img.shields.io/badge/website-Portfolio-blue)](https://hasitha.cloud/)
 ![GitHub followers](https://img.shields.io/github/followers/hasithaishere?label=Follow&style=social)
 
 
@@ -27,3 +26,6 @@ I'm always working on something new and exciting. If you want to know what I'm u
 ##
 
 [![](https://visitcount.itsvg.in/api?id=hasithaishere&label=Profile%20Views&color=3&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
+
+<img src="./assets/hasitha-H.png" width="5%">
